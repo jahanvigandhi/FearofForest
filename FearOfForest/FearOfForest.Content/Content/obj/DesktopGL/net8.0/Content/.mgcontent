@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Assignments/MonoGames/gandhi/FearOfForest/FearOfForest.Content/Content/Background/BackgroundLayer1.png</File>
+    <File>D:/Assignments/MonoGames/gandhi/FearOfForest/FearOfForest.Content/Content/Background/BackgroundLayer2.png</File>
+    <File>D:/Assignments/MonoGames/gandhi/FearOfForest/FearOfForest.Content/Content/Background/BackgroundLayer3.png</File>
+    <File>D:/Assignments/MonoGames/gandhi/FearOfForest/FearOfForest.Content/Content/Background/menu_background.png</File>
+    <File>D:/Assignments/MonoGames/gandhi/FearOfForest/FearOfForest.Content/Content/Fonts/GameFont.spritefont</File>
+    <File>D:/Assignments/MonoGames/gandhi/FearOfForest/FearOfForest.Content/Content/Fonts/MenuFont.spritefont</File>
+    <File>D:/Assignments/MonoGames/gandhi/FearOfForest/FearOfForest.Content/Content/Player/Attack.png</File>
+    <File>D:/Assignments/MonoGames/gandhi/FearOfForest/FearOfForest.Content/Content/Player/Dead.png</File>
+    <File>D:/Assignments/MonoGames/gandhi/FearOfForest/FearOfForest.Content/Content/Player/Jump.png</File>
+    <File>D:/Assignments/MonoGames/gandhi/FearOfForest/FearOfForest.Content/Content/Player/Run.png</File>
+    <File>D:/Assignments/MonoGames/gandhi/FearOfForest/FearOfForest.Content/Content/Sounds/background.mp3</File>
+    <File>D:/Assignments/MonoGames/gandhi/FearOfForest/FearOfForest.Content/Content/Sounds/coin.mp3</File>
+    <File>D:/Assignments/MonoGames/gandhi/FearOfForest/FearOfForest.Content/Content/Sounds/kill.mp3</File>
+    <File>D:/Assignments/MonoGames/gandhi/FearOfForest/FearOfForest.Content/Content/Sounds/level_up.mp3</File>
+    <File>D:/Assignments/MonoGames/gandhi/FearOfForest/FearOfForest.Content/Content/Sounds/smash.mp3</File>
+    <File>D:/Assignments/MonoGames/gandhi/FearOfForest/FearOfForest.Content/Content/Textures/Boar.png</File>
+    <File>D:/Assignments/MonoGames/gandhi/FearOfForest/FearOfForest.Content/Content/Textures/Button.png</File>
+    <File>D:/Assignments/MonoGames/gandhi/FearOfForest/FearOfForest.Content/Content/Textures/Coin.png</File>
+    <File>D:/Assignments/MonoGames/gandhi/FearOfForest/FearOfForest.Content/Content/Textures/CreditBackground.png</File>
+    <File>D:/Assignments/MonoGames/gandhi/FearOfForest/FearOfForest.Content/Content/Textures/Fly.png</File>
+    <File>D:/Assignments/MonoGames/gandhi/FearOfForest/FearOfForest.Content/Content/Textures/InfoBackground.png</File>
+    <File>D:/Assignments/MonoGames/gandhi/FearOfForest/FearOfForest.Content/Content/Textures/Leaderboard.png</File>
+    <File>D:/Assignments/MonoGames/gandhi/FearOfForest/FearOfForest.Content/Content/Textures/MainMenuBackground.png</File>
+    <File>D:/Assignments/MonoGames/gandhi/FearOfForest/FearOfForest.Content/Content/Textures/Platform.png</File>
+    <File>D:/Assignments/MonoGames/gandhi/FearOfForest/FearOfForest.Content/Content/Textures/Snail.png</File>
+    <File>D:/Assignments/MonoGames/gandhi/FearOfForest/FearOfForest.Content/Content/Tileset/Tileset1.png</File>
+    <File>D:/Assignments/MonoGames/gandhi/FearOfForest/FearOfForest.Content/Content/Tileset/Tileset2.png</File>
+    <File>D:/Assignments/MonoGames/gandhi/FearOfForest/FearOfForest.Content/Content/Tileset/Tileset3.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

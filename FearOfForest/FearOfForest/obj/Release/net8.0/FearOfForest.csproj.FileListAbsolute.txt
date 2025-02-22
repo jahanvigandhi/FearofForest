@@ -1,0 +1,12 @@
+D:\Assignments\MonoGames\gandhi\FearOfForest\FearOfForest\bin\Release\net8.0\FearOfForest.deps.json
+D:\Assignments\MonoGames\gandhi\FearOfForest\FearOfForest\bin\Release\net8.0\FearOfForest.dll
+D:\Assignments\MonoGames\gandhi\FearOfForest\FearOfForest\bin\Release\net8.0\FearOfForest.pdb
+D:\Assignments\MonoGames\gandhi\FearOfForest\FearOfForest\obj\Release\net8.0\FearOfForest.csproj.AssemblyReference.cache
+D:\Assignments\MonoGames\gandhi\FearOfForest\FearOfForest\obj\Release\net8.0\FearOfForest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignments\MonoGames\gandhi\FearOfForest\FearOfForest\obj\Release\net8.0\FearOfForest.AssemblyInfoInputs.cache
+D:\Assignments\MonoGames\gandhi\FearOfForest\FearOfForest\obj\Release\net8.0\FearOfForest.AssemblyInfo.cs
+D:\Assignments\MonoGames\gandhi\FearOfForest\FearOfForest\obj\Release\net8.0\FearOfForest.csproj.CoreCompileInputs.cache
+D:\Assignments\MonoGames\gandhi\FearOfForest\FearOfForest\obj\Release\net8.0\FearOfForest.dll
+D:\Assignments\MonoGames\gandhi\FearOfForest\FearOfForest\obj\Release\net8.0\refint\FearOfForest.dll
+D:\Assignments\MonoGames\gandhi\FearOfForest\FearOfForest\obj\Release\net8.0\FearOfForest.pdb
+D:\Assignments\MonoGames\gandhi\FearOfForest\FearOfForest\obj\Release\net8.0\ref\FearOfForest.dll

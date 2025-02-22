@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/Assignments/MonoGames/gandhi/FearOfForest/FearOfForest.Content/Content/Sounds/background.mp3</SourceFile>
+  <SourceTime>2024-12-09T00:08:16.2933428+05:30</SourceTime>
+  <DestFile>D:/Assignments/MonoGames/gandhi/FearOfForest/FearOfForest.Content/Content/bin/Android/Content/Sounds/background.xnb</DestFile>
+  <DestTime>2024-12-09T05:07:53.9548027+05:30</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2024-08-16T22:35:56+05:30</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2024-08-16T22:35:56+05:30</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>D:/Assignments/MonoGames/gandhi/FearOfForest/FearOfForest.Content/Content/bin/Android/Content/Sounds/background.m4a</string>
+  </BuildOutput>
+</PipelineBuildEvent>

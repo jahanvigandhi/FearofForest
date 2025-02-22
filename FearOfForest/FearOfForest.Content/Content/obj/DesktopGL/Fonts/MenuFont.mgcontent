@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/Assignments/MonoGames/gandhi/FearOfForest/FearOfForest.Content/Content/Fonts/MenuFont.spritefont</SourceFile>
+  <SourceTime>2024-12-09T00:58:10.8298253+05:30</SourceTime>
+  <DestFile>D:/Assignments/MonoGames/gandhi/FearOfForest/FearOfForest.Content/Content/bin/DesktopGL/Fonts/MenuFont.xnb</DestFile>
+  <DestTime>2024-12-09T01:27:42.477024+05:30</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2024-08-16T22:35:56+05:30</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2024-08-16T22:35:56+05:30</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

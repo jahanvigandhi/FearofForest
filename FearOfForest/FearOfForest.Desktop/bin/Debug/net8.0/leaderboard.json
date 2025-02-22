@@ -1,0 +1,30 @@
+[
+  {
+    "Score": 255,
+    "CoinsCollected": 7,
+    "EnemiesDefeated": 4,
+    "TimeTaken": "00:00:15.6500313",
+    "DateAchieved": "0001-01-01T00:00:00"
+  },
+  {
+    "Score": 99,
+    "CoinsCollected": 14,
+    "EnemiesDefeated": 0,
+    "TimeTaken": "00:00:41.9500839",
+    "DateAchieved": "0001-01-01T00:00:00"
+  },
+  {
+    "Score": 0,
+    "CoinsCollected": 0,
+    "EnemiesDefeated": 0,
+    "TimeTaken": "00:00:08.1000162",
+    "DateAchieved": "0001-01-01T00:00:00"
+  },
+  {
+    "Score": 0,
+    "CoinsCollected": 2,
+    "EnemiesDefeated": 0,
+    "TimeTaken": "00:00:23.6333806",
+    "DateAchieved": "0001-01-01T00:00:00"
+  }
+]

@@ -25,11 +25,11 @@
 **License 📄**
 This project uses the MIT License. See **LICENSE.md** for details.
 
-Why MIT?: It allows open use, modification, and sharing while retaining minimal restrictions.
+**Why MIT?:** It allows open use, modification, and sharing while retaining minimal restrictions.
 
 **Credits 🌟**
-Art: Oak Woods Asset Pack, Forest Sprites
-Audio: Sound effects from Pixabay
+**Art:** Oak Woods Asset Pack, Forest Sprites
+**Audio:** Sound effects from Pixabay
 
 ![image](https://github.com/user-attachments/assets/87d365ae-bb95-4fdb-b523-263d1245a64c)
 

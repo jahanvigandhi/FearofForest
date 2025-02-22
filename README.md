@@ -23,7 +23,7 @@
    Run MainMenu.tscn to start.
 
 **License 📄**
-This project uses the MIT License. See **LICENSE.md** for details.
+This project uses the MIT License. See **[LICENSE.md](https://github.com/jahanvigandhi/FearofForest/blob/main/LICENSE)** for details.
 
 **Why MIT?:** It allows open use, modification, and sharing while retaining minimal restrictions.
 

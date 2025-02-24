@@ -1,5 +1,5 @@
 # Fear of Forest 🎮🌲
-
+**Made By:- JAHANVI GANDHI,JENIL ZADAFIYA,MEHANGEE VIHOL**
 ![Icon](https://github.com/user-attachments/assets/a09c4047-3fe0-488b-9c3f-8666a62e2838)
 
 

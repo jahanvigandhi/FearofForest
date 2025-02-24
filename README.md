@@ -1,7 +1,8 @@
 # Fear of Forest 🎮🌲
-**Made By:- JAHANVI GANDHI,JENIL ZADAFIYA,MEHANGEE VIHOL**
+
 ![Icon](https://github.com/user-attachments/assets/a09c4047-3fe0-488b-9c3f-8666a62e2838)
 
+**Made By:- JAHANVI GANDHI,JENIL ZADAFIYA,MEHANGEE VIHOL**
 
 **Fear of Forest** is a casual 2D endless runner where players navigate a mystical forest, dodging obstacles, defeating enemies, and collecting coins to achieve the highest score. Built with [Godot Engine](https://godotengine.org/).
 
